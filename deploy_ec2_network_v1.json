@@ -318,8 +318,8 @@
                                     "Effect": "Allow",
                                     "Action": "s3:*",
                                     "Resource": [
-                                        "arn:aws:s3:::mys3website-ac",
-                                        "arn:aws:s3:::mys3website-ac/*"
+                                        "arn:aws:s3:::mytestweb-v1.1.com.s3-website-us-west-2.amazonaws.com",
+                                        "arn:aws:s3:::mytestweb-v1.1.com.s3-website-us-west-2.amazonaws.com/*"
                                     ]
                                 }
                             ]
